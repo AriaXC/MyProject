@@ -6,9 +6,8 @@ namespace MyProject
     {
         static void Main()
         {
-
-
-
+            AllArrAy.A();
+            //AllArrAy.Main();
         }
     }
 }
