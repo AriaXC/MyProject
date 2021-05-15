@@ -1,4 +1,5 @@
 ﻿using System;
+using MyProject.C100;
 
 namespace MyProject
 {
@@ -6,7 +7,9 @@ namespace MyProject
     {
         static void Main()
         {
-            AllArrAy.A();
+            C_1.Start();
+
+            //AllArrAy.A(); 
             //AllArrAy.Main();
         }
     }
